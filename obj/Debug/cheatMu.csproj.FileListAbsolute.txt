@@ -1,0 +1,10 @@
+C:\Users\rodri\Videos\cheatMu\cheatMu\bin\Debug\cheatMu.exe.config
+C:\Users\rodri\Videos\cheatMu\cheatMu\bin\Debug\cheatMu.exe
+C:\Users\rodri\Videos\cheatMu\cheatMu\bin\Debug\cheatMu.pdb
+C:\Users\rodri\Videos\cheatMu\cheatMu\obj\Debug\cheatMu.csproj.AssemblyReference.cache
+C:\Users\rodri\Videos\cheatMu\cheatMu\obj\Debug\cheatMu.Properties.Resources.resources
+C:\Users\rodri\Videos\cheatMu\cheatMu\obj\Debug\cheatMu.csproj.GenerateResource.cache
+C:\Users\rodri\Videos\cheatMu\cheatMu\obj\Debug\cheatMu.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Videos\cheatMu\cheatMu\obj\Debug\cheatMu.exe
+C:\Users\rodri\Videos\cheatMu\cheatMu\obj\Debug\cheatMu.pdb
+C:\Users\rodri\Videos\cheatMu\cheatMu\obj\Debug\cheatMu.Form1.resources
